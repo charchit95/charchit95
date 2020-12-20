@@ -18,4 +18,4 @@ _______________
 
 _______________
 
-![Visitor Count](https://badges.pufler.dev/visits/charchit95/charchit95)
+![Visitor Count](https://profile-counter.glitch.me/charchit95/count.svg)
