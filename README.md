@@ -15,7 +15,7 @@ _______________
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=charchit95&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=charchit95&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
+
 _______________
 
-
-![Visitor Count](https://profile-counter.glitch.me/charchit95/count.svg)
+![Visitor Count](https://badges.pufler.dev/visits/charchit95/charchit95)
