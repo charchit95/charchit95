@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center"> I am Charchit Bansal, aspiring Full Stack Developer and Machine Learning Developer and , looking forward to contribute to projects</h2>
+<h2 align="center"> I am Charchit Bansal, Full Stack Developer and aspiring Machine Learning Developer and , looking forward to contribute to projects</h2>
 
 _______________
 - 🔭 I’m currently a Student.
