@@ -11,8 +11,9 @@ _______________
 
 _______________
 
-<p align="center">
+<p style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%">
 <img width="80%" src="https://github-readme-stats.vercel.app/api?username=charchit95&show_icons=true&theme=radical&hide=stars&count_private=true" alt="GitHub Status"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=charchit95&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" >
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=charchit95&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
