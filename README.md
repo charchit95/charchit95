@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-<h2 align="center"> I am Charchit Bansal, Full Stack Developer and aspiring Machine Learning Developer and , looking forward to contribute to projects</h2>
+<h2 align="center"> I am Charchit Bansal, a Full Stack Developer and, looking forward to contribute to projects</h2>
 
 _______________
-- 🔭 I’m currently a Student.
-- 🌱 I’m currently learning Data Science.
+- 🔭 I’m currently a Student at University od Pisa.
 - 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Machine Learning Projects.
+- 🤔 I’m looking for help with Full Stack Projects.
 - 📫 How to reach me: charchit95@gmail.com
 
 _______________
